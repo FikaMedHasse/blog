@@ -1,2 +1,2 @@
 # FikaMedHasse.github.io
-Project website test
+A small website to test out making a website :)
