@@ -1,2 +1,2 @@
 # FikaMedHasse.github.io
-A small website to test out making a website :)
+Hello! This is a small github-pages repo where I keep my personal website and blog.
