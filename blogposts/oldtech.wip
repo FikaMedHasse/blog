@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Old Tech</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header><nav>
+    <a href="../index.html">[Home]</a>
+    <a href="../blog.html">[Blog]</a>
+    <a href="../about.html">[About Me]</a>
+    <a href="https://www.github.com/FikaMedHasse">[Git]</a>
+</nav></header>
+
+<h1>Old Tech</h1>
+<hr>
+<p>
+    My dad recently gave me his old work laptop that has been laying around unused for the last decade and a half. It's a Thinkpad T60 with a Core 2 Duo T2400 and 3 gigs of RAM. In other words, a real workhorse. The first thing I did was backup all the old family photos saved to the computer. When I went to install a more sensible OS than Windows XP I ran into my first problem. The processor runs a 32-bit architecture, and the Debian image I had downloaded was 64-bit.
+
+    My elegant solution was, contrary to common sense, to change the CPU rather than use a compatible OS. I went on e-bay and ordered the top of the line processor that was compatible with the motherboard. We're talking a Core 2 Duo T7200. 2 cores, 2 GHz base clock, 4 MB cache, and a 65 nm lithography. For the low price of only 9 USD you get all that!
+
+
+</p>
+
+</body>
+</html>
