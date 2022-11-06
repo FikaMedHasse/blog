@@ -39,3 +39,10 @@ pre {
 .blogpostdate {
   margin: 1.5em 0;
 }
+
+.journalpost {
+  background-color: #7878a2;
+  border-radius: 5px;
+  padding: 3.5px 12.5px;
+  margin: 0.75em 0;
+}
